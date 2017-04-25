@@ -1,3 +1,5 @@
+you're on page 105/683
+
 # ng-book 2: Inventory App
 
 > An Angular 2 inventory app
